@@ -1,3 +1,4 @@
+/* body part */
 body{
     display: flex;
     justify-content: center;
@@ -5,16 +6,23 @@ body{
     flex-direction: column;
     height: 100vh;
 }
+/* body part */
+/* heading part */
 .text{
     color: coral
 }
+/* heading part */
+/* main body part */
 .main-part{
     padding: 25px 30px;
     background-color: black;
 }
 input{
     padding: 5px;
+    color: coral;
+    font-weight: bold;
 }
 button{
     padding: 5px;
 }
+/* main body part */
