@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.text{
+    color: coral
+}
+.main-part{
+    padding: 25px 30px;
+    background-color: black;
+}
+input{
+    padding: 5px;
+}
+button{
+    padding: 5px;
+}
